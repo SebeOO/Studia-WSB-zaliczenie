@@ -29,3 +29,10 @@ Możesz tworzyć linki:
 ### Obrazki
 Obrazki można dodawać w następujący sposób:
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+### Kod w blokach
+Przykład kodu w bloku:
+
+```python
+def hello_world():
+    print("Hello, world!")
