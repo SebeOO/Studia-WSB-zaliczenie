@@ -21,3 +21,11 @@ Poniżej przykłady list:
 1. Lista numerowana 1
 2. Lista numerowana 2
 3. Lista numerowana 3
+
+### Linki
+Możesz tworzyć linki:
+[Google](https://www.google.com)
+
+### Obrazki
+Obrazki można dodawać w następujący sposób:
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
