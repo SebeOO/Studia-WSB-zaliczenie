@@ -1,5 +1,5 @@
 # Studia-WSB-zaliczenie
-Środowisko pracy informatyka
+Środowisko pracy informatyka Sebastian Pękacki Nr albumu: 176612
 
 ## Opis
 To jest przykładowy projekt, który ilustruje podstawową składnię Markdown.
