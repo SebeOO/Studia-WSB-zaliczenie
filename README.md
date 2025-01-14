@@ -36,3 +36,5 @@ Przykład kodu w bloku:
 ```python
 def hello_world():
     print("Hello, world!")
+
+# nowe repozytorium branch master (głowne)
